@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.AssemblyInfo.cs
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\HW\Work13\bin\Debug\net7.0\Work13.exe
+C:\Users\Alex\Desktop\HW\Work13\bin\Debug\net7.0\Work13.deps.json
+C:\Users\Alex\Desktop\HW\Work13\bin\Debug\net7.0\Work13.runtimeconfig.json
+C:\Users\Alex\Desktop\HW\Work13\bin\Debug\net7.0\Work13.dll
+C:\Users\Alex\Desktop\HW\Work13\bin\Debug\net7.0\Work13.pdb
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.dll
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\refint\Work13.dll
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.pdb
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\Work13.genruntimeconfig.cache
+C:\Users\Alex\Desktop\HW\Work13\obj\Debug\net7.0\ref\Work13.dll
